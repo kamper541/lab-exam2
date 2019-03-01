@@ -1,2 +1,2 @@
 # lab-exam2
-by 0567
+by Goravit Buakampun 6106100567
